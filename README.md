@@ -8,7 +8,6 @@
 - 🌱 I’m learning about cross-cultural communication, AI, and image processing.<br/>
 - 👯 I’m looking to collaborate on projects related to tech, photography, and design.<br/>  
 - 🤔 I’m looking for help with advanced image processing and AI-based segmentation.  <br/>
-- 💬 Ask me about photography, event coverage, or Jr. NTR!<br/>
 - 📫 How to reach me:<br/>  
   - [LinkedIn](http://linkedin.com/in/dhruva-kuntamukkala)<br/>  
   - [Instagram](https://www.instagram.com/dhruva.1235?igsh=cXV6MGZxNXIyamN6&utm_source=qr)<br/>    
